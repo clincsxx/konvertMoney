@@ -1,0 +1,17 @@
+D:\swagga\CurrencyConverterWPF\obj\Debug\CurrencyConverterWPF.csproj.AssemblyReference.cache
+D:\swagga\CurrencyConverterWPF\obj\Debug\MainWindow.baml
+D:\swagga\CurrencyConverterWPF\obj\Debug\MainWindow.g.cs
+D:\swagga\CurrencyConverterWPF\obj\Debug\App.g.cs
+D:\swagga\CurrencyConverterWPF\obj\Debug\CurrencyConverterWPF_MarkupCompile.cache
+D:\swagga\CurrencyConverterWPF\obj\Debug\CurrencyConverterWPF.g.resources
+D:\swagga\CurrencyConverterWPF\obj\Debug\CurrencyConverterWPF.Properties.Resources.resources
+D:\swagga\CurrencyConverterWPF\obj\Debug\CurrencyConverterWPF.csproj.GenerateResource.cache
+D:\swagga\CurrencyConverterWPF\obj\Debug\CurrencyConverterWPF.csproj.CoreCompileInputs.cache
+D:\swagga\CurrencyConverterWPF\bin\Debug\CurrencyConverterWPF.exe.config
+D:\swagga\CurrencyConverterWPF\bin\Debug\CurrencyConverterWPF.exe
+D:\swagga\CurrencyConverterWPF\bin\Debug\CurrencyConverterWPF.pdb
+D:\swagga\CurrencyConverterWPF\bin\Debug\Newtonsoft.Json.dll
+D:\swagga\CurrencyConverterWPF\bin\Debug\Newtonsoft.Json.xml
+D:\swagga\CurrencyConverterWPF\obj\Debug\Currency.7D264A61.Up2Date
+D:\swagga\CurrencyConverterWPF\obj\Debug\CurrencyConverterWPF.exe
+D:\swagga\CurrencyConverterWPF\obj\Debug\CurrencyConverterWPF.pdb

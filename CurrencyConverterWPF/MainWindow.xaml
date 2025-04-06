@@ -1,0 +1,20 @@
+﻿<Window x:Class="CurrencyConverter.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Конвертер валют" Height="361" Width="491">
+    <Grid>
+        <Label Content="Сумма:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="19,0,0,0" />
+        <TextBox x:Name="AmountTextBox" HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" Margin="19,26,0,0" />
+
+        <Label Content="Из валюты:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="22,51,0,0"/>
+        <ComboBox x:Name="FromCurrencyComboBox" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="29,77,0,0"/>
+
+        <Label Content="В валюту:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="22,104,0,0" RenderTransformOrigin="0.372,0.223"/>
+        <ComboBox x:Name="ToCurrencyComboBox" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="29,135,0,0"/>
+
+        <Button Content="Конвертировать" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="19,173,0,0" Click="ConvertButton_Click"/>
+
+        <Label x:Name="ResultLabel" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="0,200,0,0"/>
+    </Grid>
+</Window>
+

@@ -1,0 +1,13 @@
+D:\swagga\CurrencyConverterWinForms\obj\Debug\CurrencyConverterWinForms.csproj.AssemblyReference.cache
+D:\swagga\CurrencyConverterWinForms\obj\Debug\CurrencyConverterWinForms.Form1.resources
+D:\swagga\CurrencyConverterWinForms\obj\Debug\CurrencyConverterWinForms.Properties.Resources.resources
+D:\swagga\CurrencyConverterWinForms\obj\Debug\CurrencyConverterWinForms.csproj.GenerateResource.cache
+D:\swagga\CurrencyConverterWinForms\obj\Debug\CurrencyConverterWinForms.csproj.CoreCompileInputs.cache
+D:\swagga\CurrencyConverterWinForms\bin\Debug\CurrencyConverterWinForms.exe.config
+D:\swagga\CurrencyConverterWinForms\bin\Debug\CurrencyConverterWinForms.exe
+D:\swagga\CurrencyConverterWinForms\bin\Debug\CurrencyConverterWinForms.pdb
+D:\swagga\CurrencyConverterWinForms\bin\Debug\Newtonsoft.Json.dll
+D:\swagga\CurrencyConverterWinForms\bin\Debug\Newtonsoft.Json.xml
+D:\swagga\CurrencyConverterWinForms\obj\Debug\Currency.284340C6.Up2Date
+D:\swagga\CurrencyConverterWinForms\obj\Debug\CurrencyConverterWinForms.exe
+D:\swagga\CurrencyConverterWinForms\obj\Debug\CurrencyConverterWinForms.pdb
