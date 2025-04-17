@@ -17,8 +17,8 @@ namespace CurrencyConverterWinForms
         private void Form1_Load(object sender, EventArgs e)
         {
             // Заполнение выпадающих списков валютами при загрузке формы
-            fromCurrencyComboBox.Items.AddRange(new string[] { "USD", "EUR", "GBP", "JPY", "CAD" });
-            toCurrencyComboBox.Items.AddRange(new string[] { "USD", "EUR", "GBP", "JPY", "CAD" });
+            fromCurrencyComboBox.Items.AddRange(new string[] { "USD", "EUR", "GBP", "JPY", "CAD", "RUB" });
+            toCurrencyComboBox.Items.AddRange(new string[] { "USD", "EUR", "GBP", "JPY", "CAD", "RUB" });
         }
 
         private async void convertButton_Click(object sender, EventArgs e)
@@ -56,7 +56,7 @@ namespace CurrencyConverterWinForms
         private bool IsValidCurrency(string currency)
         {
             // Список поддерживаемых валют
-            var supportedCurrencies = new List<string> { "USD", "EUR", "GBP", "JPY", "CAD" };
+            var supportedCurrencies = new List<string> { "USD", "EUR", "GBP", "JPY", "CAD", "RUB" };
             return supportedCurrencies.Contains(currency);
         }
 
@@ -64,7 +64,8 @@ namespace CurrencyConverterWinForms
         {
             using (var client = new HttpClient())
             {
-                string apiUrl = $"https://api.frankfurter.app/latest?from={fromCurrency}&to={toCurrency}";
+                // Замените YOUR_API_KEY на ваш реальный API-ключ
+                string apiUrl = $"https://open.er-api.com/v6/latest/{fromCurrency}";
                 try
                 {
                     var response = await client.GetAsync(apiUrl);

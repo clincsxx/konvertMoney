@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-D:\swagga\CurrencyConverterWPF\obj\Debug\
+D:\swagga\CurrencyConverterWPF\obj\Release\
 CurrencyConverterWPF
 none
 false
-DEBUG;TRACE
+TRACE
 D:\swagga\CurrencyConverterWPF\App.xaml
 1219584333
 
